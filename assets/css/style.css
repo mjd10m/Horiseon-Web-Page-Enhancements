@@ -81,7 +81,7 @@ p {
     margin-left: 20px;
 }
 
-.content-product {             /*consolidated into content-product*/
+.content-product {             
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -90,11 +90,11 @@ p {
     color: #ffffff;
 }
 
-.content-product img {        /*consolidated into content-product for images*/
+.content-product img {        
     max-height: 200px;
 }
 
-.content-product h2 {          /*consolidated into content-product for h2*/
+.content-product h2 {          
     margin-bottom: 20px;
     font-size: 36px;
 }
@@ -111,17 +111,17 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-content {          /*consolidated into benefit-content*/
+.benefit-content {          
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-content h2 {       /*consolidated into benefit-content for h2*/
+.benefit-content h2 {       
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-content img {       /*consolidated into benefit-content for images*/
+.benefit-content img {       
     display: block;
     margin: 10px auto;
     max-width: 150px;
